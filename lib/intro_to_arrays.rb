@@ -11,5 +11,4 @@ end
 def first_element(first_element)
   array = ["Welcome to New York","Welcome to Seattle"]
   return array[0]
-
 end
