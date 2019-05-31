@@ -30,7 +30,7 @@ def last_element_with_array_methods(array)
   return array[-1]
 end
 def length_of_array(length)
-  array = ["Thailand","Welcome to Seattle","Welcome to California","Myanmar"]
+  array = ["Thailand","Welcome to Seattle","Welcome to California","Myanmar","Thailand","Welcome to Seattle","Welcome to California","Myanmar"]
   return array.length
 
 end
