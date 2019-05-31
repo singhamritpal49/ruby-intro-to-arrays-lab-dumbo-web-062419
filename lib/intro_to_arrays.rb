@@ -8,7 +8,7 @@ def array_with_two_elements
   return array_with_two_elements
 end
 
-def first_element(array)
+def first_element(first_element)
   array = ["Welcome to New York"]
   return array[0]
 
