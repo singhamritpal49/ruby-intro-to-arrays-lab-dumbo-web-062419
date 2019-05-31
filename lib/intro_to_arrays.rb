@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element(first_element)
-  array = ["Welcome to New York"]
-  return array[0]
+  array = ["Welcome to New York","Welcome to Seattle"]
+  return array.ind
 
 end
