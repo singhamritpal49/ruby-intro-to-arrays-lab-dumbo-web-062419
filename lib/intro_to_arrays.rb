@@ -12,3 +12,7 @@ def first_element(first_element)
   array = ["Welcome to New York","Welcome to Seattle"]
   return array.first
 end
+def third_element(third_element)
+array = ["Welcome to New York","Welcome to Seattle","Welcome to California"]  
+retur
+end
