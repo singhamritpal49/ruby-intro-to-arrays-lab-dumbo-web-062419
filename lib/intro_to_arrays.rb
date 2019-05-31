@@ -16,3 +16,9 @@ def third_element(third_element)
 array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Style"]
 return array[3]
 end
+
+def last_element(last_element)
+  
+  
+  
+end
