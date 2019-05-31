@@ -14,5 +14,5 @@ def first_element(array)
 end
 def third_element(third_element)
 array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Welcome to Tech"]
-return array[2]
+return array[3]
 end
