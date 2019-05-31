@@ -10,5 +10,6 @@ end
 
 def first_element(array)
   array = ["Welcome to New York"]
+  return array[0]
 
 end
