@@ -22,6 +22,6 @@ array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Out
 return array[-1]
 end
 def first_element_with_array_methods(array)
-  array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Out of The Woods"]
+  array = ["Thailand","Welcome to Seattle","Welcome to California","Out of The Woods"]
   return array.first
 end
