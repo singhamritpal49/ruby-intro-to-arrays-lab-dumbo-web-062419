@@ -21,3 +21,6 @@ def last_element(last_element)
 array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Out of The Woods"]
 return array[-1]
 end
+def first_element_with_array_methods
+  
+end
