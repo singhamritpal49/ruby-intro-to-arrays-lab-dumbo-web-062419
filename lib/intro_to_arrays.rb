@@ -18,6 +18,6 @@ return array[3]
 end
 
 def last_element(last_element)
-array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Style"]
+array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Out of The Woods"]
 return array[-1]
 end
