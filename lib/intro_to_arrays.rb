@@ -8,11 +8,11 @@ def array_with_two_elements
   return array_with_two_elements
 end
 
-def first_element(first_element)
+def first_element
   array = ["Welcome to New York","Welcome to Seattle"]
   return array.first
 end
-def third_element(third_element)
+def third_element
 array = ["Welcome to New York","Welcome to Seattle","Welcome to California","Welcome to Tech"]
 return array[2]
 end
